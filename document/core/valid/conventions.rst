@@ -154,7 +154,7 @@ and there is one respective rule for each relevant construct :math:`A` of the ab
    (saying that it consumes two |I32| values and produces one),
    independent of any side conditions.
 
-   An instruction like |LOCALGET| can be typed as follows:
+   An instruction like |GLOBALGET| can be typed as follows:
 
    .. math::
       \frac{
